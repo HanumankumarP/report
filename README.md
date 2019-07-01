@@ -1,4 +1,4 @@
-# Ambulance Management System
+# Death rate prevention system in accedents
 
 The main theme of this project is to help the people who met with an accident. It's a completely a hybrid application, supports native and web functionality.
 The modules exists in this project are :
