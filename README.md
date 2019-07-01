@@ -10,4 +10,4 @@ The modules exists in this project are :
 
 So by using our application we can get the nearest hospital management phone numbers as well as police station details. For that he need to switch on his GPS to give location details, he can get the information based on his location. He can call to the phone members which he got from the list directly from the app.
 
-Finally our application decreases the accidental ratio by using the methodologies described above.
+Finally our application decreases the death cases ration in accedents by using the methodologies described above.
